@@ -1,0 +1,3 @@
+// Until the plugin appears on gradle portal
+includeBuild("../gradle-plugin-assets-library")
+includeBuild("../gradle-plugin-distance-field-font")
